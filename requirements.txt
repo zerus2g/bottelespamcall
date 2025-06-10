@@ -3,3 +3,4 @@ Flask
 colorama
 requests
 rich
+tqdm
